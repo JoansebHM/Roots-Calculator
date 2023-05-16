@@ -5,7 +5,7 @@
 - Adentro del Entorno virtual encontrara una imagen, el codigo del programa y los 
   requerimientos para no tener problemas de versiones incompatibles.
 
-- En la consola digite el siguiente comando: pip install -r 'Requirements.txt' para traer
+- En la consola digite el siguiente comando: `pip install -r 'Requirements.txt'` para traer
   todas las librerias que he utilizado para este proyecto.
 
 - Cuando se ejecuta por primera vez el boton de guardar reporte, se crea una carpeta llamada
@@ -15,4 +15,3 @@
 
 - Cada que de click al boton de guardar, el programa reescribira sobre el archivo anterior,
   por lo que siempre va a tener el ultimo pdf generado.
-
