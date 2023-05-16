@@ -1,17 +1,24 @@
-### Instrucciones
+### Instructions
 
-- Descarge y descomprima la carpeta Parcial2 
+- Download and extract the Parcial2 folder. 
 
-- Adentro del Entorno virtual encontrara una imagen, el codigo del programa y los 
-  requerimientos para no tener problemas de versiones incompatibles.
+- Inside the virtual environment, you will find an image, the program code, and the requirements to avoid problems with incompatible versions.
 
-- En la consola digite el siguiente comando: `pip install -r 'Requirements.txt'` para traer
-  todas las librerias que he utilizado para este proyecto.
+- In the console, type the following command: `pip install -r 'Requirements.txt'` to install all the libraries that I have used for this project.
 
-- Cuando se ejecuta por primera vez el boton de guardar reporte, se crea una carpeta llamada
-  Reportes en donde estara su reporte en formato pdf con el grafico y los datos obtenidos en cada metodo.
+- When you click the "Guardar Reporte" (Save Report) button for the first time, a folder named "Reportes" (Reports) is created, where your report will be in PDF format with the graph and the data obtained in each method.
 
-- La carpeta se crea automaticamente y estara alojada dentro de la carpeta Parcial2.
+- The folder is created automatically and will be located inside the Parcial2 folder.
 
-- Cada que de click al boton de guardar, el programa reescribira sobre el archivo anterior,
-  por lo que siempre va a tener el ultimo pdf generado.
+- Each time you click the save button, the program will overwrite the previous file, so you will always have the latest generated PDF.
+
+
+
+
+
+
+
+
+
+
+
