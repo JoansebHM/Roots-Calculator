@@ -14,7 +14,7 @@
 
 ### Interface
 
-- This project allows you to solve the equation, graph It and also generate a report of the solutions you have in real time
+- This project allows you to solve the equation by any method(Steffensen, Newton Raphson, Bisection, rough estimate, fake rule, secant), graph It and also generate a report of the solutions you have in real time
 
 [![Img-Roots-Calculator.png](https://i.postimg.cc/6q6JLbbC/Img-Roots-Calculator.png)](https://postimg.cc/62PmBcXQ)
 
