@@ -16,4 +16,4 @@
 
 - This project allows you to solve the equation by any method(Steffensen, Newton Raphson, Bisection, rough estimate, fake rule, secant), graph It and also generate a report of the solutions you have in real time
 
-[![Img-Roots-Calculator-1.png](https://i.postimg.cc/bY4PDPQj/Img-Roots-Calculator-1.png)](https://postimg.cc/Z0P2217f)
+[![Img-Roots-Calculator.png](https://i.postimg.cc/9fSdfgzW/Img-Roots-Calculator.png)](https://postimg.cc/kVQ61cxZ)
